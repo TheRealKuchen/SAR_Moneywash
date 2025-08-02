@@ -1,5 +1,4 @@
 Config = {}
---test version 1.0.2
 -- or e.g. 'g_m_m_mexboss_01'
 Config.WashPedModel = 'G_M_Y_MexGoon_02'
 -- x, y, z, heading
